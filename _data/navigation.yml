@@ -1,0 +1,36 @@
+# main links
+main:
+  - title: "Navigation"
+    url: /
+  - title: "Collection"
+    url: /collections/
+  - title: "Invoices"
+    url: /invoices/
+  - title: "Portfolio Summary"
+    url: /portfolio-summary/
+  - title: "Research"
+    url: /research/
+  - title: "Guide"
+    url: /guide/
+  - title: "About"
+    url: /about/
+
+# Navigation submenu - Links to all collection sites
+navigation:
+  - title: "Pokemon"
+    url: https://futuregadgetcollections.github.io/pokemon
+  - title: "Bobbleheads"
+    url: https://futuregadgetcollections.github.io/bobbleheads
+  - title: "Lego"
+    url: https://futuregadgetcollections.github.io/lego
+  - title: "Funko Pops"
+    url: https://futuregadgetcollections.github.io/funko
+  - title: "Magic: The Gathering"
+    url: https://futuregadgetcollections.github.io/magic
+  - title: "Weiss Schwarz"
+    url: https://futuregadgetcollections.github.io/weiss
+
+# Collections submenu
+collections:
+  - title: "Legos"
+    url: /collections/legos/
