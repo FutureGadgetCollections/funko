@@ -8,7 +8,7 @@ tags:
   - funko
   - placeholder
 excerpt: "Placeholder entry for Video Games Funko Pops"
-permalink: /collections/video-games/video-games-placeholder/
+permalink: /collection/video-games/video-games-placeholder/
 ---
 
 ## Video Games Funko

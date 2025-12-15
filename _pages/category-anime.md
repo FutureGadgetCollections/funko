@@ -1,7 +1,7 @@
 ---
 title: "Anime Funko"
 layout: archive
-permalink: /collections/anime/
+permalink: /collection/anime/
 taxonomy: anime
 author_profile: false
 ---

@@ -8,7 +8,7 @@ tags:
   - funko
   - placeholder
 excerpt: "Placeholder entry for Disney Funko Pops"
-permalink: /collections/disney/disney-placeholder/
+permalink: /collection/disney/disney-placeholder/
 ---
 
 ## Disney Funko

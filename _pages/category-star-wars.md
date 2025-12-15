@@ -1,7 +1,7 @@
 ---
 title: "Star Wars Funko"
 layout: archive
-permalink: /collections/star-wars/
+permalink: /collection/star-wars/
 taxonomy: star-wars
 author_profile: false
 ---

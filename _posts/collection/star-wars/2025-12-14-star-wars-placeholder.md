@@ -8,7 +8,7 @@ tags:
   - funko
   - placeholder
 excerpt: "Placeholder entry for Star Wars Funko Pops"
-permalink: /collections/star-wars/star-wars-placeholder/
+permalink: /collection/star-wars/star-wars-placeholder/
 ---
 
 ## Star Wars Funko

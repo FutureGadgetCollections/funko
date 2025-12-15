@@ -1,7 +1,7 @@
 ---
 title: "Marvel Funko"
 layout: archive
-permalink: /collections/marvel/
+permalink: /collection/marvel/
 taxonomy: marvel
 author_profile: false
 ---

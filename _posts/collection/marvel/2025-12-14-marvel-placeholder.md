@@ -8,7 +8,7 @@ tags:
   - funko
   - placeholder
 excerpt: "Placeholder entry for Marvel Funko Pops"
-permalink: /collections/marvel/marvel-placeholder/
+permalink: /collection/marvel/marvel-placeholder/
 ---
 
 ## Marvel Funko

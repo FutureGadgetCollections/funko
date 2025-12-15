@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Collection"
-    url: /collections/
+    url: /collection/
   - title: "Invoices"
     url: /invoices/
   - title: "Portfolio Summary"

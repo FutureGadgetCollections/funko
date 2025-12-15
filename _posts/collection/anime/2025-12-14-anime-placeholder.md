@@ -8,7 +8,7 @@ tags:
   - funko
   - placeholder
 excerpt: "Placeholder entry for Anime Funko Pops"
-permalink: /collections/anime/anime-placeholder/
+permalink: /collection/anime/anime-placeholder/
 ---
 
 ## Anime Funko

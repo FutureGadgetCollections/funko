@@ -1,7 +1,7 @@
 ---
 title: "Video Games Funko"
 layout: archive
-permalink: /collections/video-games/
+permalink: /collection/video-games/
 taxonomy: video-games
 author_profile: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Disney Funko"
 layout: archive
-permalink: /collections/disney/
+permalink: /collection/disney/
 taxonomy: disney
 author_profile: false
 ---
