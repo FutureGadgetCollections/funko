@@ -6,9 +6,9 @@ author_profile: false
 classes: wide
 ---
 
-Welcome to the LEGO collection showcase! Browse by theme below:
+Welcome to the Funko Pop collection showcase! Browse by category below:
 
-## LEGO Themes
+## Funko Categories
 
 <div class="feature__wrapper">
   <div class="feature__item">
@@ -18,7 +18,7 @@ Welcome to the LEGO collection showcase! Browse by theme below:
       </div>
       <div class="archive__item-body">
         <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/star-wars/">Star Wars</a></h3>
-        <p class="archive__item-excerpt">Star Wars LEGO sets and builds</p>
+        <p class="archive__item-excerpt">Star Wars Funko Pops and collectibles</p>
       </div>
     </div>
   </div>
@@ -26,11 +26,11 @@ Welcome to the LEGO collection showcase! Browse by theme below:
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/harry-potter.jpg" alt="Harry Potter">
+        <img src="{{ site.baseurl }}/assets/images/themes/anime.png" alt="Anime">
       </div>
       <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/harry-potter/">Harry Potter</a></h3>
-        <p class="archive__item-excerpt">Harry Potter LEGO sets and builds</p>
+        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/anime/">Anime</a></h3>
+        <p class="archive__item-excerpt">Anime Funko Pops and collectibles</p>
       </div>
     </div>
   </div>
@@ -38,11 +38,11 @@ Welcome to the LEGO collection showcase! Browse by theme below:
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/ninjago.png" alt="Ninjago">
+        <img src="{{ site.baseurl }}/assets/images/themes/video-games.png" alt="Video Games">
       </div>
       <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/ninjago/">Ninjago</a></h3>
-        <p class="archive__item-excerpt">Ninjago LEGO sets and builds</p>
+        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/video-games/">Video Games</a></h3>
+        <p class="archive__item-excerpt">Video Games Funko Pops and collectibles</p>
       </div>
     </div>
   </div>
@@ -50,23 +50,11 @@ Welcome to the LEGO collection showcase! Browse by theme below:
   <div class="feature__item">
     <div class="archive__item">
       <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/f1.png" alt="F1">
+        <img src="{{ site.baseurl }}/assets/images/themes/marvel.png" alt="Marvel">
       </div>
       <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/f1/">F1</a></h3>
-        <p class="archive__item-excerpt">Formula 1 LEGO sets and builds</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/nintendo.png" alt="Nintendo">
-      </div>
-      <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/nintendo/">Nintendo</a></h3>
-        <p class="archive__item-excerpt">Nintendo LEGO sets and builds</p>
+        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/marvel/">Marvel</a></h3>
+        <p class="archive__item-excerpt">Marvel Funko Pops and collectibles</p>
       </div>
     </div>
   </div>
@@ -78,19 +66,7 @@ Welcome to the LEGO collection showcase! Browse by theme below:
       </div>
       <div class="archive__item-body">
         <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/disney/">Disney</a></h3>
-        <p class="archive__item-excerpt">Disney LEGO sets and builds</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/netflix.png" alt="Netflix">
-      </div>
-      <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collections/netflix/">Netflix</a></h3>
-        <p class="archive__item-excerpt">Netflix-themed LEGO sets and builds</p>
+        <p class="archive__item-excerpt">Disney Funko Pops and collectibles</p>
       </div>
     </div>
   </div>

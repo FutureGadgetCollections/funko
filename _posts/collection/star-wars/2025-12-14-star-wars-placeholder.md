@@ -5,13 +5,14 @@ categories:
   - star-wars
 tags:
   - star-wars
-  - lego
+  - funko
   - placeholder
-excerpt: "Placeholder entry for Star Wars LEGO sets"
+excerpt: "Placeholder entry for Star Wars Funko Pops"
+permalink: /collections/star-wars/star-wars-placeholder/
 ---
 
-## Star Wars LEGO
+## Star Wars Funko
 
-This is a placeholder entry for Star Wars LEGO sets and builds.
+This is a placeholder entry for Star Wars Funko Pops and collectibles.
 
 Content coming soon...

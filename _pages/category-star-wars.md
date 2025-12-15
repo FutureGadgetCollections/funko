@@ -1,12 +1,12 @@
 ---
-title: "Star Wars LEGO"
+title: "Star Wars Funko"
 layout: archive
 permalink: /collections/star-wars/
 taxonomy: star-wars
 author_profile: false
 ---
 
-All blog posts about Star Wars LEGO sets.
+All blog posts about Star Wars Funko Pops.
 
 {% assign star_wars_posts = site.categories.star-wars %}
 {% for post in star_wars_posts %}

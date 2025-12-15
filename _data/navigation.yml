@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Navigation"
-    url: /
   - title: "Collection"
     url: /collections/
   - title: "Invoices"

@@ -5,13 +5,14 @@ categories:
   - disney
 tags:
   - disney
-  - lego
+  - funko
   - placeholder
-excerpt: "Placeholder entry for Disney LEGO sets"
+excerpt: "Placeholder entry for Disney Funko Pops"
+permalink: /collections/disney/disney-placeholder/
 ---
 
-## Disney LEGO
+## Disney Funko
 
-This is a placeholder entry for Disney LEGO sets and builds.
+This is a placeholder entry for Disney Funko Pops and collectibles.
 
 Content coming soon...

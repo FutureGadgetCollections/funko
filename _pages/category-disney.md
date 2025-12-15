@@ -1,12 +1,12 @@
 ---
-title: "Disney LEGO"
+title: "Disney Funko"
 layout: archive
 permalink: /collections/disney/
 taxonomy: disney
 author_profile: false
 ---
 
-All blog posts about Disney LEGO sets.
+All blog posts about Disney Funko Pops.
 
 {% assign disney_posts = site.categories.disney %}
 {% for post in disney_posts %}
@@ -14,5 +14,5 @@ All blog posts about Disney LEGO sets.
 {% endfor %}
 
 {% if disney_posts.size == 0 %}
-*No Disney LEGO blog posts yet.*
+*No Disney Funko blog posts yet.*
 {% endif %}

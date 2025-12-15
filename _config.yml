@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Future Gadget Collections - Lego"
+title                    : "Future Gadget Labs, Collections, and Investments - Funko"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     :
 description              : "Static Website for the collections associated with Future Gadget Labs and EVLution Collectibles"
 url                      : "https://FutureGadgetCollections.github.io"
-baseurl                  : "/lego"# the subpath of your site, e.g. "/blog"
+baseurl                  : "/funko"# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
