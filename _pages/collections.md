@@ -6,72 +6,37 @@ author_profile: false
 classes: wide
 ---
 
-Welcome to the Funko Pop collection showcase! Browse by category below:
+Welcome to the Funko Pop collection! Browse the collection organized by acquisition type:
 
-## Funko Categories
+## Collection Categories
 
-<div class="feature__wrapper">
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/star-wars.png" alt="Star Wars">
-      </div>
-      <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collection/star-wars/">Star Wars</a></h3>
-        <p class="archive__item-excerpt">Star Wars Funko Pops and collectibles</p>
-      </div>
-    </div>
-  </div>
+### [Limited Edition Collection]({{ site.baseurl }}/collection/limited-edition/master-list/)
+Premium acquisitions, limited print runs, and exclusive releases purchased at or near full MSRP for their collectibility and investment potential.
 
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/anime.png" alt="Anime">
-      </div>
-      <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collection/anime/">Anime</a></h3>
-        <p class="archive__item-excerpt">Anime Funko Pops and collectibles</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/video-games.png" alt="Video Games">
-      </div>
-      <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collection/video-games/">Video Games</a></h3>
-        <p class="archive__item-excerpt">Video Games Funko Pops and collectibles</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/marvel.png" alt="Marvel">
-      </div>
-      <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collection/marvel/">Marvel</a></h3>
-        <p class="archive__item-excerpt">Marvel Funko Pops and collectibles</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="feature__item">
-    <div class="archive__item">
-      <div class="archive__item-teaser">
-        <img src="{{ site.baseurl }}/assets/images/themes/disney.png" alt="Disney">
-      </div>
-      <div class="archive__item-body">
-        <h3 class="archive__item-title"><a href="{{ site.baseurl }}/collection/disney/">Disney</a></h3>
-        <p class="archive__item-excerpt">Disney Funko Pops and collectibles</p>
-      </div>
-    </div>
-  </div>
-</div>
+- **Total Units:** 2
+- **Total Investment:** $40.00
+- **Current Holdings:** Hot Rod with Matrix (Glow) - Transformers
 
 ---
 
-*Use the navigation menu above to jump directly to any collection.*
+### [Clearance Collection]({{ site.baseurl }}/collection/clearance/master-list/)
+Strategic value purchases acquired at significant discounts (20-87% off MSRP) for long-term holds and portfolio diversification.
+
+- **Total Units:** 30
+- **Total Investment:** $255.00
+- **Franchises:** Star Wars, Marvel/X-Men, Anime, Gaming, TV Shows, Movies, and more
+- **Best Deal:** Merrin (Star Wars) - 7 units at $2 each (87% off MSRP)
+
+---
+
+## Quick Stats
+
+**Total Collection:**
+- **32 units** across 24 unique figures
+- **Total Cost Basis:** $295.00
+- **Average Cost per Unit:** $9.22
+
+**Purchase Distribution:**
+- Funko.com: 5 units ($74.00)
+- Meijer: 7 units ($81.00)
+- GameStop: 20 units ($140.00)

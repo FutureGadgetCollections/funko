@@ -6,6 +6,8 @@ main:
     url: /invoices/
   - title: "Portfolio Summary"
     url: /portfolio-summary/
+  - title: "Product Analysis"
+    url: /product-analysis/
   - title: "Research"
     url: /research/
   - title: "Guide"
