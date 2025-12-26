@@ -15,8 +15,8 @@ permalink: /collection/clearance/master-list/
 
 This is a comprehensive list of all Funko Pop figures acquired through clearance purchases, organized by franchise.
 
-**Total Items:** 30 units (23 unique figures)
-**Total Paid:** $291.00
+**Total Items:** 35 units (28 unique figures)
+**Total Paid:** $319.50
 
 ---
 
@@ -59,15 +59,19 @@ This is a comprehensive list of all Funko Pop figures acquired through clearance
 
 ---
 
-## Anime (4 units)
+## Anime (9 units)
 
 | Item | Number | Franchise | Quantity | Price Paid | Market Price | Date Checked | Purchase Date | Product Analysis |
 |------|--------|-----------|----------|------------|--------------|--------------|---------------|------------------|
-| Koby | #1942 | One Piece | 1 | $4.20 | TBD | TBD | 12-12-25 | [Analysis]({{ site.baseurl }}/product-analysis/koby-1942/) |
+| Rin Nohara | #1658 | Naruto | 1 | $4.50 | TBD | TBD | 12-26-25 | [Analysis]({{ site.baseurl }}/product-analysis/rin-nohara-1658/) |
+| Tenten | #1661 | Naruto | 1 | $4.50 | TBD | TBD | 12-26-25 | [Analysis]({{ site.baseurl }}/product-analysis/tenten-1661/) |
+| Naruto Uzumaki (Sasuke's Paw Encyclopedia) | #1980 | Naruto | 1 | $10.50 | TBD | TBD | 12-26-25 | [Analysis]({{ site.baseurl }}/product-analysis/naruto-uzumaki-1980/) |
+| Orihime Inoue | #1611 | Bleach | 1 | $4.50 | TBD | TBD | 12-26-25 | [Analysis]({{ site.baseurl }}/product-analysis/orihime-inoue-1611/) |
 | Tier Halibel | N/A | Bleach | 1 | $5.00 | TBD | TBD | 12-13-25 | [Analysis]({{ site.baseurl }}/product-analysis/tier-halibel/) |
+| Koby | #1942 | One Piece | 1 | $4.20 | TBD | TBD | 12-12-25 | [Analysis]({{ site.baseurl }}/product-analysis/koby-1942/) |
 | Frieren | #2071 | Frieren | 3 | $12.00 each | TBD | TBD | 12-13-25 | [Analysis]({{ site.baseurl }}/product-analysis/frieren-2071/) |
 
-**Subtotal:** 4 units | Paid: $45.20
+**Subtotal:** 9 units | Paid: $69.70
 
 ---
 
@@ -97,16 +101,17 @@ This is a comprehensive list of all Funko Pop figures acquired through clearance
 
 ---
 
-## Other Franchises (4 units)
+## Other Franchises (5 units)
 
 | Item | Number | Franchise | Quantity | Price Paid | Market Price | Date Checked | Purchase Date | Product Analysis |
 |------|--------|-----------|----------|------------|--------------|--------------|---------------|------------------|
+| Snow White (Sketched Deco) | #1526 | Disney | 1 | $4.50 | TBD | TBD | 12-26-25 | [Analysis]({{ site.baseurl }}/product-analysis/snow-white-1526/) |
+| Sleeping Stitch | #1607 | Lilo & Stitch (Disney) | 1 | $12.00 | TBD | TBD | 12-13-25 | [Analysis]({{ site.baseurl }}/product-analysis/sleeping-stitch-1607/) |
 | Big Barda | #481 | Justice League (DC) | 1 | $5.00 | TBD | TBD | 12-13-25 | [Analysis]({{ site.baseurl }}/product-analysis/big-barda-481/) |
 | Harpie Lady | #1604 | Yu-Gi-Oh! | 1 | $5.00 | TBD | TBD | 12-13-25 | [Analysis]({{ site.baseurl }}/product-analysis/harpie-lady-1604/) |
 | Pikachu | #553 | Pokemon | 1 | $12.00 | TBD | TBD | 12-13-25 | [Analysis]({{ site.baseurl }}/product-analysis/pikachu-553/) |
-| Sleeping Stitch | #1607 | Lilo & Stitch (Disney) | 1 | $12.00 | TBD | TBD | 12-13-25 | [Analysis]({{ site.baseurl }}/product-analysis/sleeping-stitch-1607/) |
 
-**Subtotal:** 4 units | Paid: $34.00
+**Subtotal:** 5 units | Paid: $38.50
 
 ---
 
@@ -115,7 +120,8 @@ This is a comprehensive list of all Funko Pop figures acquired through clearance
 **Best Value Purchases:**
 1. Merrin (7 units) - $2 each (87% off MSRP)
 2. Koby - $4.20 (72% off MSRP)
-3. Multiple items at $5 (67% off MSRP)
+3. Multiple items at $4.50 (70% off MSRP)
+4. Multiple items at $5 (67% off MSRP)
 
 **Highest Quantity:**
 - Merrin: 7 copies
@@ -123,13 +129,13 @@ This is a comprehensive list of all Funko Pop figures acquired through clearance
 - Jean Grey: 2 copies
 
 **Franchise Breakdown:**
-- Star Wars: 9 units (30%)
-- X-Men/Marvel: 5 units (17%)
-- Anime: 4 units (13%)
-- League of Legends: 3 units (10%)
-- TV Shows: 3 units (10%)
-- Movies: 3 units (10%)
-- Other: 4 units (13%)
+- Star Wars: 9 units (26%)
+- Anime: 9 units (26%)
+- X-Men/Marvel: 5 units (14%)
+- Other: 5 units (14%)
+- League of Legends: 3 units (9%)
+- TV Shows: 3 units (9%)
+- Movies: 3 units (9%)
 
 ---
 

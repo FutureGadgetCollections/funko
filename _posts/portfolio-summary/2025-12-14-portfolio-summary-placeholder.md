@@ -20,9 +20,10 @@ The HobbyDB link above shows the contents of the collection and current market v
 
 ## Portfolio Overview
 
-| Date | Cost Basis | Current Value | Fire Sale Value | ROI |
-|------|------------|---------------|-----------------|-----|
-| 2025-12-16 | $295.00 | TBD | TBD | TBD |
+| Date | Cost Basis | Current Value | Fire Sale Value | ROI | Net Purchases/Sales Since Last Check |
+|------|------------|---------------|-----------------|-----|--------------------------------------|
+| 2025-12-16 | $295.00 | TBD | TBD | TBD | N/A |
+| 2025-12-26 | $367.50 | TBD | TBD | TBD | +$72.50 |
 
 ---
 

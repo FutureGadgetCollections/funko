@@ -10,45 +10,49 @@ tags:
   - analysis
 excerpt: "Market analysis and valuation for Tier Halibel"
 permalink: /product-analysis/tier-halibel/
+classes: wide
 ---
 
 # Tier Halibel - Product Analysis
 
-**Franchise:** Bleach
-**Item Number:** N/A
-**Category:** Clearance (Bobblehead)
+| Attribute | Value |
+|-----------|-------|
+| **Franchise** | Bleach |
+| **Item Number** | N/A |
+| **Category** | Clearance (Bobblehead) |
 
 ---
 
 ## Inventory Summary
 
+{% assign inventory = site.data.tier-halibel-inventory %}
+
 | Metric | Value |
 |--------|-------|
-| **Inventory Quantity** | 1 unit |
-| **Purchase Price** | $5.00 |
-| **MSRP** | $15.00 |
-| **Discount** | 67% off |
-| **Purchase Date** | December 13, 2025 |
-| **Purchase Location** | GameStop |
-| **Condition** | Mint in Box |
+| **Inventory Quantity** | {{ inventory.inventory_quantity }} unit |
+| **Purchase Price** | ${{ inventory.purchase_price }} |
+| **MSRP** | ${{ inventory.msrp }} |
+| **Discount** | {{ inventory.discount_percentage }}% off |
+| **Purchase Date** | {{ inventory.purchase_date }} |
+| **Purchase Location** | {{ inventory.purchase_location }} |
+| **Condition** | {{ inventory.condition }} |
 
 ---
 
 ## Market Analysis
 
-| Date | Market Value | Historical Sell Through | Current Asking | Active Listings | Listings Near Asking |
-|------|--------------|------------------------|----------------|-----------------|---------------------|
-| TBD | TBD | TBD | TBD | TBD | TBD |
+{% assign market = site.data.tier-halibel-market %}
+
+| Date | Market Value | Annual Sales | Active Listings |
+|------|--------------|--------------|-----------------|
+| {{ market.analysis_date }} | TBD | {{ market.annual_sales }} | {{ market.active_listings }} |
 
 ---
 
 ## Research Links
 
-**HobbyDB Listing:**
-[https://www.hobbydb.com/marketplaces/hobbydb/catalog_items?filters[q][0]=tier%20halibel%20bleach](https://www.hobbydb.com/marketplaces/hobbydb/catalog_items?filters[q][0]=tier%20halibel%20bleach)
+[HobbyDB Listing](https://www.hobbydb.com/marketplaces/hobbydb/catalog_items?filters[q][0]=tier%20halibel%20bleach)
 
-**eBay Sold Listings (Historical Data):**
-[https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=Funko+Tier+Halibel+Bleach&dayRange=1095&tabName=SOLD](https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=Funko+Tier+Halibel+Bleach&dayRange=1095&tabName=SOLD)
+[eBay Sold Listings (Historical Data)](https://www.ebay.com/sh/research?marketplace=EBAY-US&keywords=Funko+Tier+Halibel+Bleach&dayRange=1095&tabName=SOLD)
 
-**eBay Active Listings:**
-[https://www.ebay.com/sch/149372/i.html?_nkw=Funko+Tier+Halibel+Bleach&_sop=15&LH_BIN=1](https://www.ebay.com/sch/149372/i.html?_nkw=Funko+Tier+Halibel+Bleach&_sop=15&LH_BIN=1)
+[eBay Active Listings](https://www.ebay.com/sch/149372/i.html?_nkw=Funko+Tier+Halibel+Bleach&_sop=15&LH_BIN=1)

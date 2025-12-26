@@ -11,9 +11,11 @@ excerpt: "Hot Rod with Matrix (Glow) limited edition plus clearance items to rea
 
 ## Purchase Details
 
-**Store:** Funko.com
-**Date:** December 12, 2025
-**Total (after taxes):** $74.00
+| Detail | Value |
+|--------|-------|
+| **Store** | Funko.com |
+| **Date** | December 12, 2025 |
+| **Total (after taxes)** | $74.00 |
 
 ## Items Purchased
 
@@ -25,9 +27,11 @@ excerpt: "Hot Rod with Matrix (Glow) limited edition plus clearance items to rea
 | April Ludgate | #1581 | Parks and Recreation | Clearance | 1 | $15.00 | $7.50 | $7.50 |
 | Homer with Reactor | #1630 | The Simpsons | Clearance | 1 | $15.00 | $10.50 | $10.50 |
 
-**Subtotal:** $69.70
-**Total MSRP:** $100.00
-**Savings:** $30.30 (30% off MSRP)
+| Metric | Amount |
+|--------|--------|
+| **Subtotal** | $69.70 |
+| **Total MSRP** | $100.00 |
+| **Savings** | $30.30 (30% off MSRP) |
 
 ## Purchase Summary
 

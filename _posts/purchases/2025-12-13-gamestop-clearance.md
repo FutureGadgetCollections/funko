@@ -11,9 +11,11 @@ excerpt: "Deep clearance bobblehead haul with prices ranging from $2-$12 (origin
 
 ## Purchase Details
 
-**Store:** GameStop
-**Date:** December 13, 2025
-**Total:** $140.00
+| Detail | Value |
+|--------|-------|
+| **Store** | GameStop |
+| **Date** | December 13, 2025 |
+| **Total** | $140.00 |
 
 ## Items Purchased
 
@@ -53,10 +55,12 @@ excerpt: "Deep clearance bobblehead haul with prices ranging from $2-$12 (origin
 
 ---
 
-**Total Items:** 21 units (13 unique)
-**Total Paid:** $140.00
-**Total MSRP:** $315.00
-**Total Savings:** $175.00 (56% off MSRP)
+| Metric | Amount |
+|--------|--------|
+| **Total Items** | 21 units (13 unique) |
+| **Total Paid** | $140.00 |
+| **Total MSRP** | $315.00 |
+| **Total Savings** | $175.00 (56% off MSRP) |
 
 ## Purchase Summary
 

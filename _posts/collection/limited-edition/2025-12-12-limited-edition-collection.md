@@ -16,8 +16,8 @@ permalink: /collection/limited-edition/master-list/
 
 This is a comprehensive list of all limited edition, exclusive, and premium Funko Pop figures acquired at or near full MSRP for their collectibility and investment potential.
 
-**Total Items:** 2 units (1 unique figure)
-**Total Investment:** $40.00
+**Total Items:** 4 units (2 unique figures)
+**Total Investment:** $80.00
 **Average Cost per Unit:** $20.00
 
 ---
@@ -50,17 +50,44 @@ This is a comprehensive list of all limited edition, exclusive, and premium Funk
 
 ---
 
+### DC
+
+| Item | Number | Quantity | Price Paid | Market Price | Date Checked | Purchase Date | Product Analysis |
+|------|--------|----------|------------|--------------|--------------|---------------|------------------|
+| Superman (Sketched Deco) | #576 | 2 | $20.00 each | TBD | TBD | 12-26-25 | [Analysis]({{ site.baseurl }}/product-analysis/superman-576/) |
+
+**Item Details:**
+- **Special Feature:** Sketched Deco Design
+- **Category:** Limited Edition (9500 piece run)
+- **Condition:** Mint in Box (x2)
+
+**Acquisition Notes:**
+- Primary target of December 26, 2025 Funko.com order
+- Limited to 9500 pieces worldwide
+- Secured 2 copies: one for display, one for preservation/investment
+- Added clearance items to order to reach free shipping threshold (~$7 savings)
+
+**Investment Thesis:**
+- Limited production run of only 9500 pieces globally
+- Iconic DC character with universal recognition
+- Sketched Deco variant adds unique artistic appeal
+- Superman collectibles have strong historical secondary market performance
+- Low production number increases scarcity and long-term value potential
+
+---
+
 ## Limited Edition Summary by Franchise
 
 | Franchise | Units | Investment | Market Value | Notes |
 |-----------|-------|------------|--------------|-------|
 | Transformers | 2 | $40.00 | TBD | Hot Rod with Matrix (Glow) - Limited print run |
+| DC | 2 | $40.00 | TBD | Superman (Sketched Deco) - 9500 piece limited edition |
 
 ---
 
 ## Investment Profile
 
-**Total Investment:** $40.00
+**Total Investment:** $80.00
 **Current Market Value:** TBD
 **Estimated ROI:** TBD
 

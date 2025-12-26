@@ -11,9 +11,11 @@ excerpt: "Clearance X-Men and How to Train Your Dragon figures from Meijer - wit
 
 ## Purchase Details
 
-**Store:** Meijer
-**Date:** December 12, 2025
-**Total (after taxes):** $81.00
+| Detail | Value |
+|--------|-------|
+| **Store** | Meijer |
+| **Date** | December 12, 2025 |
+| **Total (after taxes)** | $81.00 |
 
 ## Items Purchased
 
@@ -26,8 +28,11 @@ excerpt: "Clearance X-Men and How to Train Your Dragon figures from Meijer - wit
 | Storm | #1535 | X-Men | Clearance | 1 | $15.00 | $11.00 | $11.00 |
 | Rogue | #1534 | X-Men | Clearance | 1 | $15.00 | $11.00 | $11.00 |
 
-**Subtotal:** $77.00
-**Savings:** $28.00 (27% off MSRP)
+| Metric | Amount |
+|--------|--------|
+| **Subtotal** | $77.00 |
+| **Total MSRP** | $105.00 |
+| **Savings** | $28.00 (27% off MSRP) |
 
 ## Purchase Summary
 
