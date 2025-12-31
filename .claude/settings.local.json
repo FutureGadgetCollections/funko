@@ -4,7 +4,9 @@
       "Bash(ls:*)",
       "Bash(git add:*)",
       "Bash(git rm:*)",
-      "Bash(git mv:*)"
+      "Bash(git mv:*)",
+      "WebFetch(domain:docs.google.com)",
+      "WebFetch(domain:doc-04-9g-sheets.googleusercontent.com)"
     ]
   }
 }

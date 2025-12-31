@@ -3,6 +3,7 @@ title: "Invoices & Transactions"
 layout: single
 permalink: /invoices/
 author_profile: false
+classes: wide
 ---
 
 This section contains records of all purchases and sales related to the collection.

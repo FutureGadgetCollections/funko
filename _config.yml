@@ -319,12 +319,6 @@ collections:
   portfolio-summary:
     output: true
     permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
-  guide:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -379,22 +373,6 @@ defaults:
   - scope:
       path: ""
       type: portfolio-summary
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _guide
-  - scope:
-      path: ""
-      type: guide
     values:
       layout: single
       author_profile: false
